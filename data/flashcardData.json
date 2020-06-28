@@ -1,0 +1,47 @@
+{
+    "data": {
+        "title": "JavaScript Flashcards",
+      "cards": [
+        {
+          "question": "In what year was the first Star Wars film released?",
+          "hint": "It was the same year Saturday Night Fever was released",
+          "answer": "1977"
+        },
+        {
+          "question": "Which two characters are the only ones to appear in every Star Wars film in the Skywalker saga, meaning the three main trilogies?",
+          "hint": "They were built, not born",
+          "answer": "C-3PO and R2-D2"
+        },
+        {
+          "question": "What is the name of Chewbaccas father?",
+          "hint": "not available",
+          "answer": "Attichitcuk"
+        },
+        {
+          "question": "Where were Luke and Leia Skywalker born?",
+          "hint": "It's in the outer rim",
+          "answer": "Polis Massa, the asteroid field in the Outer Rim"
+        },
+        {
+          "question": "In Rogue One: A Star Wars Story, what is the name of the Imperial weapons developer who oversees the construction of the Death Star?",
+          "hint": "He is played by actor Ben Mendelsohn",
+          "answer": "Orson Krennic"
+        },
+        {
+          "question": "On which planet did Rey and Finn meet in The Force Awakens?",
+          "hint": "It is a desert planet in the system of the same name",
+          "answer": "Jakku"
+        },
+        {
+          "question": "Who built C-3PO?",
+          "hint": "It was Darth Vader",
+          "answer": "Anakin Skywalker"
+        },
+        {
+          "question": "Who originally played Obi-Wan Kenobi in the first Star Wars film?",
+          "hint": "He played Fagin in Oliver Twist",
+          "answer": "Alec Guinness"
+        }
+      ]
+    }
+}
